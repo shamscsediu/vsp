@@ -2,6 +2,10 @@
 
 A comprehensive web application security scanner that helps identify common vulnerabilities in websites. This tool performs automated security assessments to detect issues like XSS, SQL Injection, CSRF, insecure headers, and more.
 
+<p align="center">
+  <img src="./screenshot.png" width="350" alt="accessibility text">
+</p>
+
 ## Features
 
 - **Comprehensive Vulnerability Detection**: Scans for 10+ types of common web vulnerabilities
