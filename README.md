@@ -28,7 +28,7 @@ A comprehensive web application security scanner that helps identify common vuln
 ## Tech Stack
 
 - **Backend**: Django, Django REST Framework
-- **Frontend**: React, Bootstrap
+- **Frontend**: React, Next JS, Shadcn
 - **Task Queue**: Celery with Redis
 - **Database**: PostgreSQL
 - **Security Tools**: OWASP ZAP integration
@@ -212,7 +212,6 @@ vsp/
 │   └── package.json        # Node.js dependencies
 └── README.md               # This file
  ```
-```
 
 ## Security Considerations
 - This tool is designed for security professionals and website owners to test their own websites
