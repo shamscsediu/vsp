@@ -47,7 +47,7 @@ A comprehensive web application security scanner that helps identify common vuln
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vsp.git
+   git clone https://github.com/shamscsediu/vsp.git
    cd vsp
 2. Create and activate a virtual environment:
    
