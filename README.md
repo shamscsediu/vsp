@@ -35,7 +35,7 @@ A comprehensive web application security scanner that helps identify common vuln
 - **Frontend**: React, Next JS, Shadcn
 - **Task Queue**: Celery with Redis
 - **Database**: PostgreSQL
-- **Security Tools**: OWASP ZAP integration
+- **Security Tools**: [OWASP ZAP](https://github.com/zaproxy/zaproxy) integration
 
 ## Prerequisites
 
